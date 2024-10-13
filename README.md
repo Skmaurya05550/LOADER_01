@@ -28,6 +28,6 @@ This project is a simple animated loader with a "Loading..." text and a link to 
 No installation is required. Just clone this repository and open the `index.html` file in any browser.
 
 ```bash
-git clone https://github.com/skmaurya05550/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/skmaurya05550/https://github.com/Skmaurya05550/LOADER_01
+cd https://github.com/Skmaurya05550/LOADER_01
 open index.html
