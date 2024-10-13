@@ -10,9 +10,6 @@ This project is a simple animated loader with a "Loading..." text and a link to 
 - **Dark Theme**: The background color of the page is set to a dark shade (`#1E212D`), giving it a modern, sleek appearance.
 - **Call to Action**: There is a link that encourages users to subscribe to a YouTube channel, designed with a custom style.
   
-## Preview
-
-![Preview of Loader](loader-preview.png)
 
 ## Technologies Used
 
