@@ -1,5 +1,7 @@
 # Animated Loader Web Page
 
+![Demo](https://i.imghippo.com/files/AXMrS1728794565.jpg)
+
 This project is a simple animated loader with a "Loading..." text and a link to a YouTube channel, styled with CSS and HTML.
 
 ## Features
